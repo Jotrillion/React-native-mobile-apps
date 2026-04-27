@@ -1,0 +1,32 @@
+{
+  "articles": [
+    {
+      "title": "Local Community Garden Expands",
+      "description": "A neighborhood garden project added new plots and volunteer programs this weekend.",
+      "category": "Community",
+      "published_date": "2026-04-20",
+      "source": "City News Network"
+    },
+    {
+      "title": "City Introduces New Public Bus Routes",
+      "description": "Transportation officials launched two new bus lines to improve access across the city.",
+      "category": "Transport",
+      "published_date": "2026-04-22",
+      "source": "Metro Bulletin"
+    },
+    {
+      "title": "Technology Fair Showcases Student Innovations",
+      "description": "Students presented robotics, health-tech, and sustainability projects at the annual fair.",
+      "category": "Education",
+      "published_date": "2026-04-24",
+      "source": "Daily Chronicle"
+    },
+    {
+      "title": "Farmers Market Season Opens Downtown",
+      "description": "Local producers opened the spring market featuring fresh vegetables, dairy, and baked goods.",
+      "category": "Lifestyle",
+      "published_date": "2026-04-26",
+      "source": "Town Press"
+    }
+  ]
+}
